@@ -24,7 +24,7 @@
 
 <key>url</key>
 
-<string>http://192.168.18.102/ipa/test.ipa</string>
+<string>https://github.com/r4ggj/ipastore/raw/master/test.ipa</string>
 
 </dict>
 
@@ -36,7 +36,7 @@
 
 <key>url</key>
 
-<string>http://192.168.18.102/ipa/icon57.png</string>
+<string>https://github.com/r4ggj/ipastore/raw/master/icon57.png</string>
 
 </dict>
 
@@ -48,7 +48,7 @@
 
 <key>url</key>
 
-<string>http://192.168.18.102/ipa/icon512.png</string>
+<string>https://github.com/r4ggj/ipastore/raw/master/icon512.png</string>
 
 </dict>
 
